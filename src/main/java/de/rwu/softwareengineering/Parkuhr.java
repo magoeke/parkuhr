@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Parkuhr {
 
-    public List<Integer> calculateChange() {
+    public List<Integer> calculateChange(int bezahlt, int kosten) {
         return List.of();
     }
 
